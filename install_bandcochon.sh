@@ -284,4 +284,5 @@ python manage.py evolve --hint -x
 
 echo
 display_message "Create the keys.py for social networks"
-touch $1/core/config/keys.py
+touch $HERE/$1/core/config/keys.py
+
