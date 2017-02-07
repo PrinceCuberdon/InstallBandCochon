@@ -1,3 +1,5 @@
+# This repository is deprecated. Please don't use it. 
+
 Install Bandcochon
 ==================
 
